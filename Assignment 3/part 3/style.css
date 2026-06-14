@@ -87,3 +87,8 @@ nav {
   position: sticky;
   top: 0;
 }
+
+.site-logo {
+  font-weight: bold;
+  color: #333333;
+}
