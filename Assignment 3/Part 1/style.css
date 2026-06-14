@@ -1,7 +1,37 @@
-html {
-  background-color: white;
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.5;
 }
 
-body {
-  font: 1.2em / 1.5 system-ui;
+h1 {
+  margin: 0 0 .25rem;
+  font-size: 1.75rem;
+}
+
+.job-title {
+  color: #555;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin: .5rem 0 1rem;
+  max-width: 60ch;
+}
+
+h2 {
+  margin-top: 1.5rem;
+}
+
+ul {
+  margin: .5rem 0 0 1.25rem;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
