@@ -75,3 +75,10 @@ a:visited {
 a:hover {
   text-decoration: none;
 }
+li {
+  margin-bottom: 8px;
+}
+
+.job-title {
+  font-size: 1.25rem;
+}
