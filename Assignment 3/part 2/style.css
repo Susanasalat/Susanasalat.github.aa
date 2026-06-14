@@ -102,3 +102,8 @@ li {
   text-align: center;
   text-decoration: none;
 }
+
+.contact-steps {
+  border-left: 4px solid #a66;
+  padding-left: 2.5rem;
+}
