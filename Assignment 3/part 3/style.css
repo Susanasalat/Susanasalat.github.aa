@@ -60,3 +60,30 @@ nav a {
 .feature {
   width: 200px;
 }
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 20px;
+}
+
+.feature {
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+.photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+}
