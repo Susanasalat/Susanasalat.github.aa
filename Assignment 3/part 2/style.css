@@ -107,3 +107,9 @@ li {
   border-left: 4px solid #a66;
   padding-left: 2.5rem;
 }
+
+.page-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  text-align: center;
+} 
