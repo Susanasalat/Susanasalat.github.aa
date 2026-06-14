@@ -35,3 +35,37 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #375e97;
+  border-bottom: 1px solid #375e97;
+}
+
+h2 {
+  color: #375e97;
+}
+
+.job-title {
+  color: #999999;
+}
+
+ul {
+  background-color: #eeeeee;
+  border: 5px solid #375e97;
+  padding: 20px;
+}
+
+a:link,
+a:visited {
+  color: #fb6542;
+}
+
+a:hover {
+  text-decoration: none;
+}
