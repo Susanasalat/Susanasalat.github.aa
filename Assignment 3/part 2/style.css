@@ -1,0 +1,104 @@
+/*
+Name: Susan Asaalat
+File: style.css
+Date: 14 June 2026
+This CSS file styles Assignment 3 Part 2: Typesetting a homepage.
+*/
+
+html {
+  font-size: 10px;
+}
+
+body {
+  width: 70%;
+  min-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.6;
+  letter-spacing: 0.5px;
+  word-spacing: 1px;
+}
+
+h1,
+h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: 2px;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+header {
+  border-bottom: 5px solid #a66;
+}
+
+footer {
+  border-top: 5px solid #a66;
+}
+
+section {
+  width: 50%;
+  float: left;
+}
+
+aside {
+  width: 30%;
+  float: left;
+  margin-left: 4%;
+}
+
+nav {
+  width: 15%;
+  float: left;
+  margin-left: 1%;
+}
+
+footer {
+  clear: both;
+}
+
+a {
+  color: #a66;
+}
+
+a:focus,
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  color: #d88;
+}
+
+ul,
+ol {
+  margin: 1.6rem 0;
+}
+
+li {
+  line-height: 1.6;
+}
+
+nav ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+nav li {
+  margin-bottom: 2rem;
+}
+
+nav a {
+  display: block;
+  border: 1px solid #a66;
+  padding: 1rem;
+  text-align: center;
+  text-decoration: none;
+}
