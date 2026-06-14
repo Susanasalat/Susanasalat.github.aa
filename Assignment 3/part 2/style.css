@@ -43,18 +43,18 @@ footer {
   border-top: 5px solid #a66;
 }
 
-section {
+.main-content {
   width: 50%;
   float: left;
 }
 
-aside {
+.course-list {
   width: 30%;
   float: left;
   margin-left: 4%;
 }
 
-nav {
+.site-menu {
   width: 15%;
   float: left;
   margin-left: 1%;
@@ -86,16 +86,16 @@ li {
   line-height: 1.6;
 }
 
-nav ul {
+.site-menu ul {
   padding-left: 0;
   list-style-type: none;
 }
 
-nav li {
+.site-menu li {
   margin-bottom: 2rem;
 }
 
-nav a {
+.site-menu a {
   display: block;
   border: 1px solid #a66;
   padding: 1rem;
