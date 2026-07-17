@@ -56,3 +56,9 @@ button:focus {
 .thumb-bar img:focus {
   outline: 2px solid blue;
 }
+
+.displayed-img {
+  width: 640px;
+  height: 480px;
+  object-fit: cover;
+}
