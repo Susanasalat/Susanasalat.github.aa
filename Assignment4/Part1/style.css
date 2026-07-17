@@ -35,3 +35,8 @@ h1 {
 .instructions {
   margin-bottom: 20px;
 }
+.footer-note {
+  margin-top: 15px;
+  font-size: 13px;
+  text-align: center;
+}
