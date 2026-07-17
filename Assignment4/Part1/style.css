@@ -22,3 +22,8 @@ p {
   padding: 10px;
   visibility: hidden;
 }
+
+button {
+  padding: 6px 10px;
+  cursor: pointer;
+}
