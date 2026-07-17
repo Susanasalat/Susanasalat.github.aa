@@ -60,3 +60,7 @@ canvas {
   z-index: 1;
   font-size: 14px;
 }
+.ball-count,
+.controls {
+  text-shadow: 1px 1px 2px black;
+}
