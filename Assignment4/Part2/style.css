@@ -62,3 +62,8 @@ button:focus {
   height: 480px;
   object-fit: cover;
 }
+
+.instructions {
+  text-align: center;
+  margin-bottom: 15px;
+}
