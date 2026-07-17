@@ -40,3 +40,7 @@ h1 {
   font-size: 13px;
   text-align: center;
 }
+.randomize:focus-visible {
+  outline: 3px solid black;
+  outline-offset: 2px;
+}
