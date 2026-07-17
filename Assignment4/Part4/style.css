@@ -58,4 +58,5 @@ canvas {
   margin: 0;
   color: white;
   z-index: 1;
+  font-size: 14px;
 }
