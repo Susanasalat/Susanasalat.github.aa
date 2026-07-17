@@ -50,3 +50,12 @@ canvas {
   font-weight: bold;
   z-index: 1;
 }
+
+.controls {
+  position: absolute;
+  top: 60px;
+  left: 8px;
+  margin: 0;
+  color: white;
+  z-index: 1;
+}
