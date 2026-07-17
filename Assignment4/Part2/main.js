@@ -21,6 +21,7 @@ for (const image of images) {
 
   newImage.setAttribute("src", `${imagePath}${image.filename}`);
   newImage.setAttribute("alt", image.alt);
+  newImage.setAttribute("tabindex", "0");
 
   newImage.addEventListener("click", () => {
   displayedImage.src = newImage.src;
