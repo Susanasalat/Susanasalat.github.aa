@@ -73,3 +73,8 @@ button:focus {
   font-size: 14px;
   margin-top: 15px;
 }
+
+button:focus-visible {
+  outline: 3px solid black;
+  outline-offset: 2px;
+}
